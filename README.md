@@ -16,7 +16,7 @@ For inqueries, open up a discord ticket or contact refloow on discord
  
  - **Global Reach**: Break language barriers. With a deeply integrated, dynamic localization system, your bot speaks your customers' language natively, expanding your market worldwide.
  
- - **Lightning Fast Execution**: Stripped of heavy card-calculating logic, this bot relies on pure, high-speed financial math. It evaluates inventories and executes complex currency trades instantly.
+ - **Lightning Fast Execution**: This bot relies on pure, high-speed financial math. It evaluates inventories and executes complex currency trades instantly.
 
 ## Key Features:
 - **Automated Two-Way Exchange**: Users can seamlessly buy or sell TF2 Keys and Tour of Duty (TOD) Tickets for Steam Gems using simple, intuitive commands (`!buytf`, `!selltf`, `!buytod`, `!selltod`).
