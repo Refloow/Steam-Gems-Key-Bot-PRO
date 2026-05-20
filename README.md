@@ -4,6 +4,10 @@
 
 Born from our trusted, industry-standard bot architecture, the Steam-Gems-Key-Bot-PRO is a next-generation platform engineered specifically for vendors who want to operate a flawless, high-speed currency exchange. This lightweight, ultra-fast software completely automates the trading of TF2 Keys and Tour of Duty (TOD) Tickets for Steam Gems. By allowing you to set custom Buy and Sell rates, the bot captures the spread margin on every single transaction, generating pure profit on autopilot. 
 
+# Contact:
+- Discord: @refloow userid: 749452967207501836
+- Discord server: https://discord.gg/hcafD8Be7X
+
 # The Philosophy
 *Steam-Gems-Key-Bot-PRO is your automated financial exchange, acting as the ultimate profit engine for your Steam business:*
 
@@ -24,3 +28,7 @@ Born from our trusted, industry-standard bot architecture, the Steam-Gems-Key-Bo
 - **Standard Bot Protection**: Includes our trusted anti-spam protection, auto-accepting offline friend requests, automated inactive friend removal, and auto-inviting users to your Steam Group.
 - **Detailed Chat & Trade Logs**: View all chat messages natively in the console, and log every accepted exchange automatically into cleanly organized text files for your business records.
 - **Exceptional Stability & Support**: Backed by years of community-trusted development to ensure your currency exchange operations never go offline.
+
+# Contact:
+- Discord: @refloow userid: 749452967207501836
+- Discord server: https://discord.gg/hcafD8Be7X
